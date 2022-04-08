@@ -1,3 +1,6 @@
 1. how to parse JSON response.
 
 https://devqa.io/parse-json-response-rest-assured/
+
+
+try trigger info
