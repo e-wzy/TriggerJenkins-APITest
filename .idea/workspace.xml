@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6c15f9ff-2a99-4310-8d9c-1876f14df5d3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/APITest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04-01-TestWithTestNG/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04-01-TestWithTestNG/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04-01-TestWithTestNG/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04-01-TestWithTestNG/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Configuration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-03-GetRequest/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../02-03-GetRequest/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-03-GetRequest/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../02-03-GetRequest/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-03-GetRequest/target/test-classes/ApiTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../02-03-GetRequest/target/test-classes/ApiTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-04-PostRequest/src/test/java/ApiTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../02-04-PostRequest/src/test/java/ApiTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-04-PostRequest/target/test-classes/ApiTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../02-04-PostRequest/target/test-classes/ApiTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-05-PutRequest/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../02-05-PutRequest/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-05-PutRequest/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../02-05-PutRequest/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-05-PutRequest/src/test/java/ApiTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../02-05-PutRequest/src/test/java/ApiTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-05-PutRequest/target/test-classes/ApiTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../02-05-PutRequest/target/test-classes/ApiTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-07-SerializeRequestBody/src/test/java/ApiTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../02-07-SerializeRequestBody/src/test/java/ApiTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-07-SerializeRequestBody/target/test-classes/ApiTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../02-07-SerializeRequestBody/target/test-classes/ApiTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-05-VerifyComplexBodies/src/test/java/ApiTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../03-05-VerifyComplexBodies/src/test/java/ApiTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-05-VerifyComplexBodies/target/test-classes/ApiTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../03-05-VerifyComplexBodies/target/test-classes/ApiTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-06-VerifyHeader/src/test/java/ApiTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../03-06-VerifyHeader/src/test/java/ApiTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-06-VerifyHeader/target/test-classes/ApiTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../03-06-VerifyHeader/target/test-classes/ApiTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-07-DeserializeResponseBody/src/test/java/ApiTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../03-07-DeserializeResponseBody/src/test/java/ApiTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-07-DeserializeResponseBody/target/test-classes/ApiTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../03-07-DeserializeResponseBody/target/test-classes/ApiTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../notes.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="24HlgDBb5FvIFZpocDrmUInk25v" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="TestNG.C:/00-GEC-DARC/00-Test/APITest/04-02-TestDARC-API/testng.xml">
+    <configuration name="C:/00-GEC-DARC/00-Test/APITest/04-02-TestDARC-API/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/00-GEC-DARC/00-Test/APITest/04-02-TestDARC-API/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="04-02-TestDARC-API" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/00-GEC-DARC/00-Test/APITest/04-02-TestDARC-API/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="04-02-TestDARC-API" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/00-GEC-DARC/00-Test/APITest/04-02-TestDARC-API/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="04-02-TestDARC-API" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMLFlow.createProduct" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="04-01-TestWithTestNG" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestMLFlow" />
+      <option name="METHOD_NAME" value="createProduct" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMLFlow.deleteProduct" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="04-01-TestWithTestNG" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestMLFlow" />
+      <option name="METHOD_NAME" value="deleteProduct" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMLFlow.updateProduct" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="04-01-TestWithTestNG" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestMLFlow" />
+      <option name="METHOD_NAME" value="updateProduct" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.C:/00-GEC-DARC/00-Test/APITest/04-02-TestDARC-API/testng.xml" />
+      <item itemvalue="TestNG.TestMLFlow.createProduct" />
+      <item itemvalue="TestNG.TestMLFlow.deleteProduct" />
+      <item itemvalue="TestNG.TestMLFlow.updateProduct" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/00-GEC-DARC/00-Test/APITest/04-02-TestDARC-API/testng.xml" />
+        <item itemvalue="TestNG.C:/00-GEC-DARC/00-Test/APITest/04-02-TestDARC-API/testng.xml" />
+        <item itemvalue="TestNG.C:/00-GEC-DARC/00-Test/APITest/04-02-TestDARC-API/testng.xml" />
+        <item itemvalue="TestNG.C:/00-GEC-DARC/00-Test/APITest/04-02-TestDARC-API/testng.xml" />
+        <item itemvalue="TestNG.TestMLFlow.updateProduct" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c15f9ff-2a99-4310-8d9c-1876f14df5d3" name="Changes" comment="" />
+      <created>1643295507980</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1643295507980</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

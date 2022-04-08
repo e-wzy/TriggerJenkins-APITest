@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Test Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test MLFlow(failed)">
+    <classes>
+      <class name="TestMLFlow">
+        <methods>
+          <include name="beforeClassTest"/>
+          <include name="teardown"/>
+          <include name="Test_3_getExperiment"/>
+        </methods>
+      </class> <!-- TestMLFlow -->
+    </classes>
+  </test> <!-- Test MLFlow(failed) -->
+</suite> <!-- Failed suite [Test Suite] -->

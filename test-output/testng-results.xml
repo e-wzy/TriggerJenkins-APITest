@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="5" total="8" passed="3" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[ Test 1 - Create one experiment.]]>
+    </line>
+    <line>
+      <![CDATA[Status code is 200.]]>
+    </line>
+    <line>
+      <![CDATA[The experiment id 36 returned.]]>
+    </line>
+    <line>
+      <![CDATA[The experiment:DemoAPITest-1646826008066 created successfully.]]>
+    </line>
+    <line>
+      <![CDATA[ Test 2 - Get one specific experiment.]]>
+    </line>
+    <line>
+      <![CDATA[Status code is 200.]]>
+    </line>
+    <line>
+      <![CDATA[The experiment id 36 is correct.]]>
+    </line>
+    <line>
+      <![CDATA[The experiment name DemoAPITest-1646826008066 is correct.]]>
+    </line>
+    <line>
+      <![CDATA[The experiment is got and passed verification.]]>
+    </line>
+    <line>
+      <![CDATA[ Test 3 - Get all of experiments.]]>
+    </line>
+    <line>
+      <![CDATA[[Default, DemoAPITest1646361571688, DemoAPITest-1646823984994, DemoAPITest-1646826008066]]]>
+    </line>
+    <line>
+      <![CDATA[All experiments got and passed verification.]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-03-09T19:40:07 SGT" name="Test Suite" finished-at="2022-03-09T19:40:14 SGT" duration-ms="6291">
+    <groups>
+    </groups>
+    <test started-at="2022-03-09T19:40:07 SGT" name="Test MLFlow" finished-at="2022-03-09T19:40:14 SGT" duration-ms="6291">
+      <class name="TestMLFlow">
+        <test-method is-config="true" signature="beforeClassTest()[pri:0, instance:TestMLFlow@1018bde2]" started-at="2022-03-09T19:40:08 SGT" name="beforeClassTest" finished-at="2022-03-09T19:40:08 SGT" duration-ms="40" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClassTest -->
+        <test-method signature="Test_1_createExperiment()[pri:0, instance:TestMLFlow@1018bde2]" started-at="2022-03-09T19:40:08 SGT" name="Test_1_createExperiment" finished-at="2022-03-09T19:40:13 SGT" duration-ms="5452" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[ Test 1 - Create one experiment.]]>
+            </line>
+            <line>
+              <![CDATA[Status code is 200.]]>
+            </line>
+            <line>
+              <![CDATA[The experiment id 36 returned.]]>
+            </line>
+            <line>
+              <![CDATA[The experiment:DemoAPITest-1646826008066 created successfully.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Test_1_createExperiment -->
+        <test-method signature="Test_2_getExperiment()[pri:0, instance:TestMLFlow@1018bde2]" started-at="2022-03-09T19:40:13 SGT" name="Test_2_getExperiment" finished-at="2022-03-09T19:40:13 SGT" duration-ms="286" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[ Test 2 - Get one specific experiment.]]>
+            </line>
+            <line>
+              <![CDATA[Status code is 200.]]>
+            </line>
+            <line>
+              <![CDATA[The experiment id 36 is correct.]]>
+            </line>
+            <line>
+              <![CDATA[The experiment name DemoAPITest-1646826008066 is correct.]]>
+            </line>
+            <line>
+              <![CDATA[The experiment is got and passed verification.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Test_2_getExperiment -->
+        <test-method signature="Test_3_getAllExperiments()[pri:0, instance:TestMLFlow@1018bde2]" started-at="2022-03-09T19:40:13 SGT" name="Test_3_getAllExperiments" finished-at="2022-03-09T19:40:14 SGT" duration-ms="417" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[ Test 3 - Get all of experiments.]]>
+            </line>
+            <line>
+              <![CDATA[[Default, DemoAPITest1646361571688, DemoAPITest-1646823984994, DemoAPITest-1646826008066]]]>
+            </line>
+            <line>
+              <![CDATA[All experiments got and passed verification.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Test_3_getAllExperiments -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestMLFlow@1018bde2]" started-at="2022-03-09T19:40:14 SGT" name="teardown" finished-at="2022-03-09T19:40:14 SGT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TestMLFlow -->
+    </test> <!-- Test MLFlow -->
+  </suite> <!-- Test Suite -->
+</testng-results>

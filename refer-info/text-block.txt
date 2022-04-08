@@ -1,0 +1,10 @@
+//The body in JSON format is used as POST request body or payload.
+//The text block below requires JAVA 15 or higher, and no comments inside the block is allowed.
+
+String strBody = """
+                {
+                "name": "exp_filename"
+                }
+                """.replace("exp_filename", exp_filename);*/
+
+var response = given().body(strBody).when().post(endpoint).then();

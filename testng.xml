@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Test Suite">
+    <!-- If listeners are implemented through the testng.xml file, then they are applied to all the classes.-->
+   <!-- <listeners>
+        <listener class-name="Listener"></listener>
+    </listeners>-->
+    <test verbose="2" preserve-order="true" name="Test MLFlow">
+        <classes>
+            <class name="TestMLFlow" >
+                <methods>
+                    <include name="Test_1_createExperiment"></include>
+                    <include name="Test_2_getExperiment"></include>
+                    <include name="Test_3_getAllExperiments"></include>
+                    <exclude name="updateExperiment"></exclude>
+                    <exclude name="deleteExperiment"></exclude>
+                </methods>
+            </class>
+            <!-- <class name="TestToAdd"></class> -->
+        </classes>
+    </test>
+<!--
+    <test verbose="2" preserve-order="true" name="Test Use Case ">
+        <classes>
+            <class name="TestUseCase" >
+                <methods>
+                    <include name="Test_1"></include>
+                    <include name="Test_2"></include>
+                </methods>
+            </class>
+        </classes>
+    </test>
+
+    <test verbose="2" preserve-order="true" name="Test to Add">
+        <classes>
+            <class name="TestToAdd" >
+                <methods>
+                    <include name="Test1"/>
+                    <include name="Test2"/>
+                </methods>
+            </class>
+        </classes>
+    </test>-->
+
+</suite>
