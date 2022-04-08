@@ -8,10 +8,10 @@
       <![CDATA[Status code is 200.]]>
     </line>
     <line>
-      <![CDATA[The experiment id 68 returned.]]>
+      <![CDATA[The experiment id 71 returned.]]>
     </line>
     <line>
-      <![CDATA[The experiment:DemoAPITest-1649392534162 created successfully.]]>
+      <![CDATA[The experiment:DemoAPITest-1649395700777 created successfully.]]>
     </line>
     <line>
       <![CDATA[ Test 2 - Get one specific experiment.]]>
@@ -20,10 +20,10 @@
       <![CDATA[Status code is 200.]]>
     </line>
     <line>
-      <![CDATA[The experiment id 68 is correct.]]>
+      <![CDATA[The experiment id 71 is correct.]]>
     </line>
     <line>
-      <![CDATA[The experiment name DemoAPITest-1649392534162 is correct.]]>
+      <![CDATA[The experiment name DemoAPITest-1649395700777 is correct.]]>
     </line>
     <line>
       <![CDATA[The experiment is got and passed verification.]]>
@@ -32,22 +32,22 @@
       <![CDATA[ Test 3 - Get all of experiments.]]>
     </line>
     <line>
-      <![CDATA[[Default, DemoAPITest1646361571688, DemoAPITest-1647331019361, DemoAPITest-1649391067092, DemoAPITest-1649392534162]]]>
+      <![CDATA[[Default, DemoAPITest1646361571688, DemoAPITest-1647331019361, DemoAPITest-1649391067092, DemoAPITest-1649392534162, DemoAPITest-1649395528214, DemoAPITest-1649395547333, DemoAPITest-1649395700777]]]>
     </line>
     <line>
       <![CDATA[All experiments got and passed verification.]]>
     </line>
   </reporter-output>
-  <suite started-at="2022-04-08T12:35:34 SGT" name="Test Suite" finished-at="2022-04-08T12:35:37 SGT" duration-ms="3674">
+  <suite started-at="2022-04-08T13:28:20 SGT" name="Test Suite" finished-at="2022-04-08T13:28:25 SGT" duration-ms="4490">
     <groups>
     </groups>
-    <test started-at="2022-04-08T12:35:34 SGT" name="Test MLFlow" finished-at="2022-04-08T12:35:37 SGT" duration-ms="3674">
+    <test started-at="2022-04-08T13:28:20 SGT" name="Test MLFlow" finished-at="2022-04-08T13:28:25 SGT" duration-ms="4490">
       <class name="TestMLFlow">
-        <test-method is-config="true" signature="beforeClassTest()[pri:0, instance:TestMLFlow@22e357dc]" started-at="2022-04-08T12:35:34 SGT" name="beforeClassTest" finished-at="2022-04-08T12:35:34 SGT" duration-ms="16" status="PASS">
+        <test-method is-config="true" signature="beforeClassTest()[pri:0, instance:TestMLFlow@22e357dc]" started-at="2022-04-08T13:28:20 SGT" name="beforeClassTest" finished-at="2022-04-08T13:28:20 SGT" duration-ms="19" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClassTest -->
-        <test-method signature="Test_1_createExperiment()[pri:0, instance:TestMLFlow@22e357dc]" started-at="2022-04-08T12:35:34 SGT" name="Test_1_createExperiment" finished-at="2022-04-08T12:35:37 SGT" duration-ms="3124" status="PASS">
+        <test-method signature="Test_1_createExperiment()[pri:0, instance:TestMLFlow@22e357dc]" started-at="2022-04-08T13:28:20 SGT" name="Test_1_createExperiment" finished-at="2022-04-08T13:28:24 SGT" duration-ms="3912" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[ Test 1 - Create one experiment.]]>
@@ -56,14 +56,14 @@
               <![CDATA[Status code is 200.]]>
             </line>
             <line>
-              <![CDATA[The experiment id 68 returned.]]>
+              <![CDATA[The experiment id 71 returned.]]>
             </line>
             <line>
-              <![CDATA[The experiment:DemoAPITest-1649392534162 created successfully.]]>
+              <![CDATA[The experiment:DemoAPITest-1649395700777 created successfully.]]>
             </line>
           </reporter-output>
         </test-method> <!-- Test_1_createExperiment -->
-        <test-method signature="Test_2_getExperiment()[pri:0, instance:TestMLFlow@22e357dc]" started-at="2022-04-08T12:35:37 SGT" name="Test_2_getExperiment" finished-at="2022-04-08T12:35:37 SGT" duration-ms="241" status="PASS">
+        <test-method signature="Test_2_getExperiment()[pri:0, instance:TestMLFlow@22e357dc]" started-at="2022-04-08T13:28:24 SGT" name="Test_2_getExperiment" finished-at="2022-04-08T13:28:24 SGT" duration-ms="273" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[ Test 2 - Get one specific experiment.]]>
@@ -72,30 +72,30 @@
               <![CDATA[Status code is 200.]]>
             </line>
             <line>
-              <![CDATA[The experiment id 68 is correct.]]>
+              <![CDATA[The experiment id 71 is correct.]]>
             </line>
             <line>
-              <![CDATA[The experiment name DemoAPITest-1649392534162 is correct.]]>
+              <![CDATA[The experiment name DemoAPITest-1649395700777 is correct.]]>
             </line>
             <line>
               <![CDATA[The experiment is got and passed verification.]]>
             </line>
           </reporter-output>
         </test-method> <!-- Test_2_getExperiment -->
-        <test-method signature="Test_3_getAllExperiments()[pri:0, instance:TestMLFlow@22e357dc]" started-at="2022-04-08T12:35:37 SGT" name="Test_3_getAllExperiments" finished-at="2022-04-08T12:35:37 SGT" duration-ms="245" status="PASS">
+        <test-method signature="Test_3_getAllExperiments()[pri:0, instance:TestMLFlow@22e357dc]" started-at="2022-04-08T13:28:24 SGT" name="Test_3_getAllExperiments" finished-at="2022-04-08T13:28:25 SGT" duration-ms="235" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[ Test 3 - Get all of experiments.]]>
             </line>
             <line>
-              <![CDATA[[Default, DemoAPITest1646361571688, DemoAPITest-1647331019361, DemoAPITest-1649391067092, DemoAPITest-1649392534162]]]>
+              <![CDATA[[Default, DemoAPITest1646361571688, DemoAPITest-1647331019361, DemoAPITest-1649391067092, DemoAPITest-1649392534162, DemoAPITest-1649395528214, DemoAPITest-1649395547333, DemoAPITest-1649395700777]]]>
             </line>
             <line>
               <![CDATA[All experiments got and passed verification.]]>
             </line>
           </reporter-output>
         </test-method> <!-- Test_3_getAllExperiments -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:TestMLFlow@22e357dc]" started-at="2022-04-08T12:35:37 SGT" name="teardown" finished-at="2022-04-08T12:35:37 SGT" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestMLFlow@22e357dc]" started-at="2022-04-08T13:28:25 SGT" name="teardown" finished-at="2022-04-08T13:28:25 SGT" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
